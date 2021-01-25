@@ -4,7 +4,8 @@ def spotify_user_id():
 
 
 def spotify_token():
-    return "BQD3IHWvVogSFzhTSjkwuUPPyiQ9UpUxK4QuEAj6MpaIfS87L__ZY300PxuY-VDKEwI5XC4MC_tw0pVsIeSPxG4c8QZV-cFkSwL8kcqrh1ME1ZEIobSWlyOk4JXbF3_NeLqdryfupq-VOWmk8eMfHETr8qvff7ZRbLsUhyyxawEB62HyBLH5VHFGEFSaqAa4G6XmfO_N_h0iOdGxN8aOqooguQ"
+    return "BQDwmmCWU2KFExAxoxt8DL6lpnU4wHY31oIR4rJ8IEwX9fh3riV0SMktkhseVUKKnRUjcaGCLn0WqdZLjSkaC9uaNjNxT3OVHZt7L4HBKn8NUvKRA9m19t4cWk1quc3UQK8UYsorVx8kFxbSdBNdL_1JxLntNILiiPPY0S7z4PwIJnqKPKeVyd6Qyy1XXQyc71Wk5OylM29a_YCDsmxONgK6EL5c9W5lQ7piicM39n82KOisYWsnW9MCxMFmaT4doCQ"
+
 
 
 def last_fm_api():
